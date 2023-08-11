@@ -1,0 +1,36 @@
+.icon
+{
+    width: 15px;
+    height: 15px;
+    padding: 10px;
+
+}
+
+.d-flex
+{
+    display: flex;
+}
+
+.d-column
+{
+    flex-direction: column;
+}
+
+.d-row
+{
+    flex-direction: row;
+}
+
+.text-muted
+{
+    color: #777;
+}
+
+.btn
+{
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
